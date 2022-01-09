@@ -1,0 +1,24 @@
+{
+  "name": "arcsecond-docs",
+  "version": "1.0.0",
+  "description": "The repository of documentation for www.arcsecond.io (starting with iObserve)",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcsecond-io/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcsecond-io/docs/issues"
+  },
+  "homepage": "https://github.com/arcsecond-io/docs#readme",
+  "devDependencies": {
+    "vitepress": "^0.21.4"
+  }
+}

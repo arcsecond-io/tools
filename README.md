@@ -1,2 +1,4 @@
-# docs
-The repository of documentation for www.arcsecond.io (starting with iObserve)
+# tools
+
+The repository of documentation for all tools in www.arcsecond.io (starting 
+with iObserve).
